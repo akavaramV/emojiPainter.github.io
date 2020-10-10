@@ -1,1 +1,1 @@
-# myProjects
+# EmojiPainter
